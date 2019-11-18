@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TESTB3Clean.iml" filepath="$PROJECT_DIR$/.idea/modules/TESTB3Clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TESTB3Clean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TESTB3Clean_main.iml" group="TESTB3Clean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TESTB3Clean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TESTB3Clean_test.iml" group="TESTB3Clean" />
+    </modules>
+  </component>
+</project>
